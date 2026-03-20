@@ -115,13 +115,6 @@ HR-Analytics-Dashboard/
 2. Explore the dashboard using slicers
 3. Interact with visuals to gain insights
 
-
-
- 📸 Dashboard Preview
-
-*(Add your dashboard screenshot here)*
-
-
  📌 Conclusion
 
 This project demonstrates how data visualization can transform raw HR data into **meaningful insights**, helping organizations make smarter decisions regarding employee management and retention.
